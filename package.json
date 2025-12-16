@@ -27,6 +27,7 @@
     "devDependencies": {
         "@rollup/plugin-alias": "^5.0.1",
         "@rollup/plugin-commonjs": "^25.0.7",
+        "@rollup/plugin-json": "^6.1.0",
         "@rollup/plugin-node-resolve": "^15.2.3",
         "@rollup/plugin-typescript": "^11.1.5",
         "@rollup/plugin-wasm": "^6.2.2",
@@ -40,8 +41,7 @@
         "rollup": "^4.3.0",
         "rollup-plugin-svg": "^2.0.0",
         "typescript": "^5.2.2",
-        "vitest": "^0.34.6",
-        "wasm-pack": "^0.12.1",
-        "@rollup/plugin-json": "^6.1.0"
+        "vitest": "^4.0.15",
+        "wasm-pack": "^0.0.0"
     }
 }

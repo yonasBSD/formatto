@@ -31,4 +31,4 @@ If you're interested in participating in this project, please refer to the
 
 
 ## This project is still being maintained!
-You might have noticed the owner of this repository set their profile private. But that doesn't the project is dead. You can still create issues and pull requests.
+You might have noticed the owner of this repository set their profile private. But that doesn't mean the project is dead. You can still create issues and pull requests.
